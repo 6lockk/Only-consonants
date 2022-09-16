@@ -1,7 +1,7 @@
-include <iostream.h>
-include <conio.h>
-include<stdio.h>
-include<string.h>
+#include <iostream>
+#include <conio>
+#include <stdio>
+#include <string>
 void main()
 {
     clrscr();
